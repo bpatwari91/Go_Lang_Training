@@ -1,0 +1,16 @@
+Difference b/w Java and Go: Go doesnt have VM. It only compiles in C or C++ whereas Java has JVM. In termns of performance GO surpasses Java because Go does not need VM.
+Difference b/w Python and Go: Python supports exceptions Go doesnt. Go has errors instead. Go doesnt support inheritance  whereas Python does.
+Difference b/w uint and int: Uint means Unsigned integer whereas Int means signed integer. Int can handle negative values unlike Uint
+Adv and DisAdv of Go: Advantages : 
+Advantage of Golang:
+
+Golang Is Fast.
+Golang Is Easy To Learn.
+Golang Is Well-Scaled.
+Comprehensive Programming Tools.
+Growing Pool Of Talent.
+The disadvantage of Golang:
+Lack of Function Overloading and Default Values for Arguments.
+Lack of Generics.
+Error Handling.
+Tools That Are Bundled with Go.
